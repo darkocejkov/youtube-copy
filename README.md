@@ -1,6 +1,6 @@
-# youtube-copy
+# youtube-copy-react
 
-> a chrome extension tools built with Vite + Vanilla-ts, and Manifest v3
+> a chrome extension tools built with Vite + React-ts, and Manifest v3
 
 ## Installing
 
@@ -13,7 +13,7 @@
 run the command
 
 ```shell
-$ cd youtube-copy
+$ cd youtube-copy-react
 
 $ npm run dev
 ```
@@ -21,7 +21,7 @@ $ npm run dev
 ### Chrome Extension Developer Mode
 
 1. set your Chrome browser 'Developer mode' up
-2. click 'Load unpacked', and select `youtube-copy/build` folder
+2. click 'Load unpacked', and select `youtube-copy-react/build` folder
 
 ### Nomal FrontEnd Developer Mode
 
